@@ -26,7 +26,7 @@
   "homepage": "https://github.com/cloudflare/isbgpsafeyet.com#readme",
   "dependencies": {
     "@cloudflare/kv-asset-handler": "^0.3.0",
-    "csv-parse": "^5.3.6",
+    "csv-parse": "^5.5.3",
     "lodash.pickby": "^4.6.0"
   },
   "devDependencies": {
